@@ -10,6 +10,7 @@ Simply upload an invoice image and ask any question related to the invoice and t
 - Ask natural language questions about the invoice
 - AI-powered extraction and analysis using Gemini Pro Vision model
 - Simple and interactive Streamlit interface
+- Multi lingual support. Upload invoices in different languages and ask your question.
 
 ## Setup
 
