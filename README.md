@@ -1,6 +1,8 @@
-# Invoice Extractor AI
+# Invoice Analyzer
 
-Invoice Extractor AI is a Streamlit web application that uses Google's Gemini AI model to analyze invoice images and answer user queries about them. Simply upload an invoice image and ask any question related to the invoice and the AI agent will extract and provide the relevant information.
+Invoice Analyzer is a Streamlit web application that uses Google's Gemini AI model to analyze invoice images and answer user queries about them. 
+
+Simply upload an invoice image and ask any question related to the invoice and the AI agent will extract and provide the relevant information.
 
 ## Features
 
