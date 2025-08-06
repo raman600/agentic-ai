@@ -4,7 +4,7 @@ This project enables the conversion of natural language queries into SQL stateme
 ## Features
 
 - **Natural Language to SQL**: Automatically translates user questions into SQL queries.
-- **Streamlit Web Application**: Simple and interactive web interface.
+- **Streamlit Web Application**: Simple and interactive web interface. Output isn't fully optimized for user experience.
 - **SQLite Database**: Stores and manages student data.
 - **Secure API Integration**: Utilizes environment variables for API key management.
 
