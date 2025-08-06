@@ -4,7 +4,7 @@ This repo has multiple agentic applications that is production ready and can be 
 
 Run this in cmd prompt vscode to create a virtual environment. 750+mb.
 
--conda create -p venv python==3.10 -y
--conda activate venv/
+conda create -p venv python==3.10 -y
+conda activate venv/
 
 Reach out for any queries.
