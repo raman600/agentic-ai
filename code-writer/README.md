@@ -9,6 +9,10 @@ This project demonstrates an agentic AI workflow for collaborative code generati
 - **RoundRobinGroupChat:** Manages agent interactions and turn-taking.
 - **OpenAI Model Integration:** Uses GPT-based models for agent intelligence.
 
+## Architecture 
+<img width="453" height="456" alt="image" src="https://github.com/user-attachments/assets/f256a4bb-8c34-4c13-a2ed-881f2d89fd60" />
+
+
 ## How It Works
 
 1. The user submits a coding request.
