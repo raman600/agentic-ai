@@ -1,0 +1,12 @@
+streamlit
+pyautogen
+openai
+pandas
+plotly
+PyPDF2
+python-docx
+mammoth
+autogen
+sqlalchemy
+google-generativeai
+ag2[gemini]
